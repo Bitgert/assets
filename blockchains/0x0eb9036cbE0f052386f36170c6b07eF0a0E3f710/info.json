@@ -1,1 +1,21 @@
 
+{
+    "name": "Wrapped BRISE",
+    "website": "https://bitgert.com",
+    "description": "A blockchain ecosystem offering unbeatable speed and the lowest fees, with top-level security and scalability.",
+    "explorer": "https://brisescan.com/",
+    "symbol": "BRISE",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bitgert"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitgertbrise"
+        }
+    ]
+}
